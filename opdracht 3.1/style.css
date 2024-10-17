@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Goldman", cursive;
+  background-image: url(/img/background.jpeg);
+  background-size: 100%;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  padding: 2rem;
+  min-height: 10vh;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+  background: #00a8c7;
+  justify-content: space-between;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+nav li {
+  font-size: 2.5rem;
+  padding: 0 4rem 0 4rem;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav img {
+  width: 5vw;
+}
+
+
+
+.htmltext{
+width: 15vw;
+height: 5vw;
+position: absolute;
+right: 10vw;
+top: 20vw;
+font-size: 1vw;
+left: 50vw;
+}
+
+
+
+
+
+
+.indexhtml{
+width: 15vw;
+height: 5vw;
+position: absolute;
+font-size: 1vw;
+hei
+
+
+
+
+
+}
+
+
+
+
+
+
+.javascript{
+font-size: 1vw;
+height: 5vw;
+
+
+
+
+
+
+
+
+}
+
+
+
+
+.phphtml{
+font-size: 1vw;
+
+
+
+
+
+}
+
+
+
+
+
+
+.SQL{
+font-size: 1vw;
+
+
+
+
+
+
+
+}
